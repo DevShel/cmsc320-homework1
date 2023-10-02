@@ -5,3 +5,8 @@ creating a new merge commit in the process, and combining their merge histories.
 changes the base of a feature branch to the latest commit on main, giving a cleaner commit history.
 Think of merging branches as tying a knot between two branches, and rebase as connecting the feature 
 branch to the end of the main branch.
+Q2: What is a remote repository?
+
+Answer: Remote repositories are versions of your project that are hosted on a server 
+or another network, and often times this remote repository is accessible to other team 
+members. This is in comparison to a local repository which is hosted on one's computer.
